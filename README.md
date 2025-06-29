@@ -1,6 +1,6 @@
 # Event Scheduler REST API 🗓️
 
-A comprehensive Flask REST API for event scheduling with full CRUD operations, real-time reminders, and Kolkata timezone support.
+A comprehensive Flask REST API for event scheduling with full CRUD operations.
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-v3.0+-green.svg)
