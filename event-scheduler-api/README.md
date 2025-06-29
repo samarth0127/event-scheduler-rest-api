@@ -45,7 +45,7 @@ A comprehensive Flask REST API for event scheduling with full CRUD operations, r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/event-scheduler-api.git
+git clone https://github.com/samarth0127/event-scheduler-api.git
 cd event-scheduler-api
 ```
 
